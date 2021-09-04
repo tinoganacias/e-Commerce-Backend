@@ -10,6 +10,7 @@ For a manager of an internet retail company, this back end of an e-commerce webs
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Links](#links)
 
 ## Installation
 
